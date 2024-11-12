@@ -1,5 +1,5 @@
 Behavioral Data Analysis: Group Comparisons and Time Series Visualization
-This repository contains a Jupyter notebook for analyzing behavioural recording data, specifically aimed at grouping and visualizing movement data over time. The script:
+This repository contains a Google Colab notebook for analyzing behavioural recording data, specifically aimed at grouping and visualizing movement data over time. The script:
 
 Reads and cleans behavioural recording data from an Excel file.
 Segments data into customizable groups and time intervals.
